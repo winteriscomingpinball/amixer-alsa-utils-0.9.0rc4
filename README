@@ -1,0 +1,18 @@
+Compiled for ggmicro.  Place in /bin and give execute permissions.
+
+		Advanced Linux Sound Architecture - Utilities
+		=============================================
+
+This package contains the command line utilities for the ALSA project.
+The package can be compiled only with the installed ALSA driver and
+the ALSA C library.
+
+alsactl		- an utility for soundcard settings management
+aplay/arecord	- an utility for the playback / capture of .wav,.voc,.au files
+amixer		- a command line mixer
+alsamixer	- a ncurses mixer
+
+You may give a look for more information about the ALSA project to URL
+http://www.alsa-project.org.
+
+					Jaroslav Kysela <perex@suse.cz>
